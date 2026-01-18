@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Void659
 - 👀 I’m interested in programming and geek stuff.
-- 🌱 I’m currently learning Vue and Django
+- 🌱 I’m currently working with different projects using Django
+- ✨ GNU/Linux enthusiast 
 
 <!---
 Void659/Void659 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
